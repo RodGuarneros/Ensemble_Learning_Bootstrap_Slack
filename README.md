@@ -7,7 +7,7 @@ This is the best explanation of Ensemble Technique for Machine Learning
 
 ## Bagging
 
-![bagging]()
+![bagging](https://github.com/RodGuarneros/Ensemble_Learning_Bootstrap_Slack/blob/main/bagging_technique.jpg)
 
 ## Slacked Generalization:
 
