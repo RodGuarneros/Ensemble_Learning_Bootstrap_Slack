@@ -5,6 +5,12 @@ This is the best explanation of Ensemble Technique for Machine Learning
 
 ![Ilustration](https://github.com/RodGuarneros/Ensemble_Learning_Bootstrap_Slack/blob/main/Blind_men_and_elephant.jpg)
 
+## Bagging
 
+![bagging]()
+
+## Slacked Generalization:
+
+![Apilamiento](https://github.com/RodGuarneros/Ensemble_Learning_Bootstrap_Slack/blob/main/apilamiento.jpg)
 
 ![Dimention](https://github.com/RodGuarneros/Ensemble_Learning_Bootstrap_Slack/blob/main/performance.jpg)
